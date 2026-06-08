@@ -98,6 +98,10 @@ Given more time, examining the intersection of queer identities with ethnicity i
 
 One promising avenue to explore in the future is the ways in which all of this data could be made more accessible. With the majority of the data currently available being the curation of just a few devoted individuals, a method of collaboration and further support would be invaluable. The need for more robust catalogs and consistently-maintained databases is quite evident, which is an area in which librarians and others could potentially step in. Discovering the merit of one person’s passion project is inspiring, and it’s encouraging to think of what a coordinated effort building upon their work could accomplish.
 
+### Links
+
+Here is where you can find the .csv file that I used for manipulating the Queer Books Database data in RStudio, along with my code: https://github.com/CactusCatt/QueerBooks
+
 ---
 
 ##### **References**
