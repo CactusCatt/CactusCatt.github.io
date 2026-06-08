@@ -10,13 +10,13 @@ In trying to understand the prevalence of sources for queer and disabled represe
 
 Enter the Queer Books Database. 
 
-![Queer Books Database Website](assets/images/QBD)
+![Queer Books Database Website](https://github.com/CactusCatt/CactusCatt.github.io/blob/main/assets/images/QBD.png)
 
 The [Queer Books Database](https://qbdatabase.wpcomstaging.com/) is a large and accessible database that collects information on books with queer representation. It also features an accompanying website, serving as a way to allow users to locate books with specific representation and themes, with pages listing all books containing such tags. This website portion has similar functionality to LGBTQ Reads. 
 
 Yet what truly sets the Queer Books Database apart is in its name: [the database](https://cloud.seatable.io/dtable/external-links/custom/queerbooksdatabase/?tid=1T68&vid=0000). The database is split into 3 sections: New Titles, Fiction, and Nonfiction. The Fiction Database, with 5,420 records at the time of writing, is what I’ll be focusing on here. The database lists each book’s title, author, genre, publication year, the identities and relationships represented in the book, and a whole lot more. While this database is focused specifically on queer identities, it does also contain information on other forms of representation, such as disability, neurodivergence, and ethnicity, along with content warnings and themes. 
 
-![Queer Books Database Example](assets/images/GTN)
+![Queer Books Database Example](https://github.com/CactusCatt/CactusCatt.github.io/blob/main/assets/images/GtN.png)
 
 I’ll use Tamsyn Muir’s Gideon the Ninth as an example. It has the genre tags of Horror and Fantasy, the relationship tag of *FF* (female/female), the identity tag of *wlw* (woman-loving-woman), and the neurodivergence tag of *schz* (schizophrenia). The database makes use of many different tags and abbreviations reminiscent of those used to tag fanfiction, and while not all of their meanings may be immediately obvious, there is a helpful “[Key & Definitions](https://cloud.seatable.io/dtable/external-links/custom/queerbooksdatabase/?tid=DH8I&vid=0000)” page. In relationship and identity tags, “F” or “W” is typically used to refer to female/woman, “M” is used for male/man, “N” or “nb” is used for nonbinary, and “mga” refers to multi-gender attracted. 
 
@@ -38,7 +38,7 @@ The Queer Books Database generally features more books published in a given year
 
 The distribution of queer identity in literature is also a point of interest, along with how it compares to the distribution of identity within the queer community as a whole. To start, I examined the “*Identity*” column of the Queer Books Database and calculated how many times each identity appeared, excluding the “*sc*” (side character) tag, given that it isn’t an actual identity.
 
-![Representation of Queer Identities in Fiction Literature](assets/pictures/Rplot12)
+![Representation of Queer Identities in Fiction Literature](https://github.com/CactusCatt/CactusCatt.github.io/blob/main/assets/images/Rplot12.png)
 
 Unsurprisingly, wlw/lesbian, mlm/gay, and mga/bi/pansexual identities were by far the most common, each with over 1,600 books. Transgender and nonbinary identities were the 4th and 5th most common, both coming in at slightly over 600 books. Other queer identities were significantly less common, indicating a lack of representation in comparison to the more dominant identities. I then divided each of the identity totals by the number of books in the database (5,420) to find the percentage of books that these identities appeared in. 
 
@@ -56,7 +56,7 @@ While representation of *mlm*, *wlw*, and *mga* identities had been quite even, 
 
 Disability and neurodivergence was another point of interest, including how it intersects with queer identities. To analyze the representation of disability and neurodivergence in the Queer Books Database, I combined the columns of “Disability”, “Mental Health”, and “Neurodivergence” so that I could visualize them all at once, following a similar procedure to my analysis of queer identities. 
 
-![Representation of Disabilities in Queer Fiction Literature](assets/images/Rplot13)
+![Representation of Disabilities in Queer Fiction Literature](https://github.com/CactusCatt/CactusCatt.github.io/blob/main/assets/images/Rplot13.png)
 
 Here, we can see that *anxiety* is by far the most prominent disability portrayed, with “*Other*” being the second. There is a very even split between *autism*, *PTSD*, *depression*, *addiction*, and *mobility*. There were many disabilities and neurodiverse identities not captured here, with this graph only capturing the top 12 (again excluding side characters).  
 
