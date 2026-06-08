@@ -62,7 +62,7 @@ While representation of *mlm*, *wlw*, and *mga* identities had been quite even, 
 
 Disability and neurodivergence was another point of interest, including how it intersects with queer identities. To analyze the representation of disability and neurodivergence in the Queer Books Database, I combined the columns of “Disability”, “Mental Health”, and “Neurodivergence” so that I could visualize them all at once, following a similar procedure to my analysis of queer identities. 
 
-![Representation of Disabilities in Queer Fiction Literature](https://github.com/CactusCatt/CactusCatt.github.io/blob/main/assets/images/Rplot13.png)
+![Representation of Disabilities in Queer Fiction Literature](assets/images/Rplot13.png)
 
 Here, we can see that *anxiety* is by far the most prominent disability portrayed, with “*Other*” being the second. There is a very even split between *autism*, *PTSD*, *depression*, *addiction*, and *mobility*. There were many disabilities and neurodiverse identities not captured here, with this graph only capturing the top 12 (again excluding side characters).  
 
