@@ -100,7 +100,7 @@ One promising avenue to explore in the future is the ways in which all of this d
 
 ### Links
 
-Here is where you can find the .csv file that I used for manipulating the Queer Books Database data in RStudio, along with my code: https://github.com/CactusCatt/QueerBooks
+Here is where you can find the .csv file that I used for manipulating the Queer Books Database data in RStudio, along with my code: <https://github.com/CactusCatt/QueerBooks>
 
 ---
 
