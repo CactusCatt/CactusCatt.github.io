@@ -1,5 +1,7 @@
 # Intersecting Stories: Data on the Importance of Queer Disability Representation in Literature
 
+###### Justin Maynard
+
 It can be a struggle to pick out what book to read next, to find one that will satisfy your specific tastes and needs. As a neurodivergent queer person, it’s doubly hard to find a book where I can truly feel myself between the pages, to find representation and visibility in the stories. Granted, that isn’t always what I’m in the mood for. But no one should have that option denied from them. 
 
 Queer and disability visibility is incredibly important. Humans look to media and literature for representation and role models, especially during their formative years. Being able to see yourself in a book is a validating and empowering experience, especially for those who are marginalized and made invisible by mainstream society. Representation helps to normalize the experience of queer and disabled/neurodivergent individuals, exposing readers to positive representations and challenging dominant assumptions and stereotypes (Nikki, 2024). There are boundless examples of cisgender, straight white male protagonists, with stories centering around marginalized identities feeling like a drop in the sea. Yet the amount of these stories has been rapidly increasing in recent years, paving the way for new voices to be heard. 
@@ -22,7 +24,9 @@ I’ll use Tamsyn Muir’s Gideon the Ninth as an example. It has the genre tags
 
 Something that I’ve found to be very impressive is that the Queer Books Database appears to have been created, updated, and maintained by a single individual. The creator posts occasional updates on their “[About & News](https://qbdatabase.wpcomstaging.com/about/)” page, and typically aims to update the database once a month. The data for the Queer Books Database appears to have been collected through “searching for queer representation across many different sites that promote new releases, as well as archives and other databases to search for previously published titles” (“Frequently Asked Questions”, n.d.). Being the passion project of one person, it’s obvious that this database wouldn’t feasibly be able to include all queer books, so the creator needs to make decisions on what books to include and exclude.
 
+
 >“This is a curated database intended to help users find positive representation or at least make an informed decision on whether they wish to read materials that may be dated or contain some offensive content. It is not an archive of every book that has queer rep or discusses queer topics” (“Frequently Asked Questions”, n.d.).
+
 
 The choice of which books to include is significant, given that the creator must choose to prioritize certain books with the limited time that they have. As such, this database isn’t fully representative of the entirety of queer literature, but can provide valuable information and suggestions on queer literature, being the largest database of its kind that I could find. 
 
@@ -68,7 +72,9 @@ This data reveals some interesting trends. Firstly, the most common combination 
 
 While data on the specific intersections of these identities isn’t something that’s yet been largely measured, it is generally understood that a fairly significant overlap exists.
 
+
 > “[CAP’s 2024 LGBTQI+ community survey](https://www.americanprogress.org/article/the-lgbtqi-community-reported-high-rates-of-discrimination-in-2024/) found that LGBTQI+ people as a whole are more likely to identify as disabled than are non-LGBTQI+ people: In 2024, 48 percent of LGBTQI+ U.S. adults reported having a disability, compared with 36 percent of the general population in 2024” (Doherty et al., 2025).
+
 
 For a long time, writing about queer and disabled/neurodiverse characters was seen as undesirable, that people didn’t want to read about them. Mainly, it was thought that there was no market for books about these demographics. But just how prevalent these demographics are in the world around us is coming to light. People do want to read these stories. People do want to be seen, acknowledged, and empowered. And as these stories reach more and more people, dominant narratives and stereotypes are challenged, allowing for new voices and ways of thinking to become accepted and valued.
 Yet this increase of representation and diverse stories has been met with an increase in attempts to ban them. The backlash around queer themes and diverse topics can render these stories inaccessible to some of those who need them most. In times like these, resources like the Queer Books Database are more important than ever, helping to highlight and spread the word about these beautiful books. 
@@ -78,3 +84,23 @@ My analysis of the Queer Books Database can’t be used to make concrete claims 
 Given more time, examining the intersection of queer identities with ethnicity in this database would further provide valuable insights. Additionally, exploring and cross-referencing other similar resources to the Queer Books Database, including those that focus on disability and other marginalized communities, would help to provide a more comprehensive look at the state and importance of representation and visibility in literature.
 
 One promising avenue to explore in the future is the ways in which all of this data could be made more accessible. With the majority of the data currently available being the curation of just a few devoted individuals, a method of collaboration and further support would be invaluable. The need for more robust catalogs and consistently-maintained databases is quite evident, which is an area in which librarians and others could potentially step in. Discovering the merit of one person’s passion project is inspiring, and it’s encouraging to think of what a coordinated effort building upon their work could accomplish.
+
+---
+
+##### **References**
+
+Doherty, C., Norris, H., Ives-Rublee, M., & Smith, C. (2025, March 27). How the Disability and LGBTQI+ Communities Intersect. _Center for American Progress_. <https://www.americanprogress.org/article/how-the-disability-and-lgbtqi-communities-intersect/>
+
+Gallup, inc. (2025, February 20). _LGBTQ+ Identification in U.S. Rises to 9.3%._ Gallup. <https://news.gallup.com/poll/656708/lgbtq-identification-rises.aspx>
+
+Heckler, L. (2024, December 4). Queer YA Data. _Lillian Heckler Portfolio_. <https://lillianheckler.com/queer-ya-data/>
+
+Monteil, A. (2022, November 15). _Sapphic Literature Is on the Rise. Hopefully, It’s More Than Just a Trend._ Them. <https://www.them.us/story/sapphic-literature-lgbtq-publishing>
+
+Nikki. (2024, June 7). _Queerness In Literature: Why It’s Important & TBR Books._ <https://authornikkielizabeth.com/2024/06/07/queerness-in-literature-importance/>
+
+Queer Books Database. (n.d.). _Frequently Asked Questions_ [Google Doc]. <https://docs.google.com/document/d/1BZT16OCW_ayvaRqGykNH3B_vpHtvzlE8HPFUsLzjZ0w/edit?usp=sharing.> 
+
+Queer Books Database. (2026). _Queer Books Database_ [Dataset]. <https://cloud.seatable.io/dtable/external-links/custom/queerbooksdatabase/?tid=DH8I&vid=0000>
+
+Walters, J. (2023). The Kids Are Not All Right: Why LGBTQIA+ Representation in Literature Matters. _Children and Libraries, 21_(1), 19–21. <https://doi.org/10.5860/cal.21.1.19>
