@@ -62,7 +62,7 @@ The main differences that we can see between the Queer Books Database and the Ga
 
 Another question is how the distribution of queer identities in literature has changed over time, and at what point these “Other” identities started to rise in popularity and visibility. 
 
-<iframe src="assets/visualizations/IdentityOverTime.html" height="500" width="500"></iframe> 
+<iframe src="assets/visualizations/IdentityOverTime.html" height="500" width="800"></iframe> 
 
 While representation of *mlm*, *wlw*, and *mga* identities had been quite even, 2019 marks the year in which *wlw* identities became the most commonly represented in queer literature. This is a trend that’s consistent with other findings, even though mlm books tend to receive more attention and awards (Heckler, 2024). And 2022 marks the year where nonbinary identities became more commonly represented than transgender identities.
 
@@ -76,7 +76,7 @@ Here, we can see that *anxiety* is by far the most prominent disability portraye
 
 I was then curious to see the ways that queer identity and disability/neurodivergence intersect. To accomplish this, I decided to calculate the number of books in which each identity+disability/neurodivergence combination occurred, and put the resulting data together in a heatmap. 
 
-<iframe src="assets/visualizations/QBD_Heatmap.html" height="500" width="600"></iframe> 
+<iframe src="assets/visualizations/QBD_Heatmap.html" height="500" width="800"></iframe> 
 
 This data reveals some interesting trends. Firstly, the most common combination is *mga* + *anxiety*, with 112 appearances. *Wlw* + *anxiety* and *mlm* + *anxiety* were the next most common, both with 85 appearances. *Mga* identities were the most common to be represented with disabilities/neurodivergence, with a total of 843 combinations, compared to 793 for *mlm* identities and 783 for *wlw* identities. *Addiction* and *PTSD* were most common in *mlm* identities, and *autism* is most common in *wlw* identities. 
 
