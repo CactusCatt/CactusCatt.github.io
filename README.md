@@ -2,6 +2,8 @@
 
 ###### Justin Maynard
 
+### Visibility
+
 It can be a struggle to pick out what book to read next, to find one that will satisfy your specific tastes and needs. As a neurodivergent queer person, it’s doubly hard to find a book where I can truly feel myself between the pages, to find representation and visibility in the stories. Granted, that isn’t always what I’m in the mood for. But no one should have that option denied from them. 
 
 Queer and disability visibility is incredibly important. Humans look to media and literature for representation and role models, especially during their formative years. Being able to see yourself in a book is a validating and empowering experience, especially for those who are marginalized and made invisible by mainstream society. Representation helps to normalize the experience of queer and disabled/neurodivergent individuals, exposing readers to positive representations and challenging dominant assumptions and stereotypes (Nikki, 2024). There are boundless examples of cisgender, straight white male protagonists, with stories centering around marginalized identities feeling like a drop in the sea. Yet the amount of these stories has been rapidly increasing in recent years, paving the way for new voices to be heard. 
